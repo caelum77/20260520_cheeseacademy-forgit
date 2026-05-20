@@ -10,13 +10,13 @@ body {
   font-family: Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo,
     sans-serif;
   font-feature-settings: "palt";
-  font-size: 16px;
+  font-size: 14px;
   line-height: 1.6875;
   letter-spacing: 0.05em;
 }
 @media screen and (max-width: 768px) {
   body {
-    font-size: 15px;
+    font-size: 14px;
   }
 }
 
