@@ -129,7 +129,7 @@ img {
   flex-direction: column;
   gap: 12px 0;
   width: 100%;
-  color: var(--text-white-color);
+  color: var(--text-blue-color);
   font-size: 48px;
   font-weight: bold;
 }
